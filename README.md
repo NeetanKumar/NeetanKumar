@@ -4,6 +4,13 @@ IIT Delhi '24
 
 Hit me up, [email](mailto:neetan.kumar@alumni.iitd.ac.in) :)
 
+## skills
+
+- **Languages:** Java, C++, JavaScript, TypeScript, C, Python, HTML, CSS, R, SQL, Dart, Rust
+- **Services & Frameworks:** Spring Boot, Kafka, Adobe, SFTP, GitHub, Postman, Postgres, Mongo, React, Node
+- **DevOps:** MS Azure, CI/CD, AWS, Docker, Kubernetes, App Dynamics, Prometheus, Grafana
+- **AI/GenAI:** LangChain, OpenAI, RAG, Prompt Engineering, FAISS, Pinecone, HuggingFace
+
 **this week i spent my time on:**
 <!--START_SECTION:waka-->
 

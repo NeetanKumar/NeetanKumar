@@ -6,6 +6,11 @@ Hit me up, [email](mailto:neetan.kumar@alumni.iitd.ac.in) :)
 
 **this week i spent my time on:**
 <!--START_SECTION:waka-->
+
+```txt
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 <!--

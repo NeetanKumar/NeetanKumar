@@ -4,21 +4,27 @@ IIT Delhi '24
 
 Hit me up, [email](mailto:neetan.kumar@alumni.iitd.ac.in) :)
 
+## work experience
+- Compliance RAG chatbot for Air India cabin crews based on RAG, 10,000 daily users
+- Evouchers for disgruntled customers, disbursal without internet, salesforce composite integeration, QuickSilver integeration
+- Business Contract creation through whatsapp chats using Whatsapp Business API and Anthropic sdk.
+- Autonomous AI as personal AI agent to summarize the finances, calendars and cron reporting through Telegram 
+
 ## skills
 
-- **Languages:** Java, C++, JavaScript, TypeScript, C, Python, HTML, CSS, R, SQL, Dart, Rust
-- **Services & Frameworks:** Spring Boot, Kafka, Adobe, SFTP, GitHub, Postman, Postgres, Mongo, React, Node
-- **DevOps:** MS Azure, CI/CD, AWS, Docker, Kubernetes, App Dynamics, Prometheus, Grafana
-- **AI/GenAI:** LangChain, OpenAI, RAG, Prompt Engineering, FAISS, Pinecone, HuggingFace
+- **AI/GenAI:** LangChain, LangFuse, MCP servers, RAG, vLLM, Ollama, RAGAs, Prompt Caching, Hermes, OpenClaw, Prompt Engineering, FAISS, Pinecone, HuggingFace, pgvector
+- **Languages:** Python, Java, TypeScript, C++
+- **Services & Frameworks:** Spring Boot, NextJs, NodeJs, ReactJs, Kafka
+- **DevOps:** Azure, AWS, GCP, Docker, Kubernetes, App Dynamics, Prometheus, Grafana
 
-**this week i spent my time on:**
+<!-- **this week i spent my time on:**
 <!--START_SECTION:waka-->
 
-```txt
+<!-- ```txt
 No activity tracked
-```
+``` --> -->
 
-<!--END_SECTION:waka-->
+<!-- END_SECTION:waka -->
 
 <!--
 Add a Buy Me a Coffee badge once you have an account:

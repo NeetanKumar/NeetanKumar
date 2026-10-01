@@ -6,7 +6,6 @@ Hit me up, [email](mailto:neetan.kumar@alumni.iitd.ac.in) :)
 
 ## my github stats
 
-![](https://github-readme-stats.vercel.app/api?username=NeetanKumar&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=NeetanKumar&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NeetanKumar&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 [![](https://visitcount.itsvg.in/api?id=NeetanKumar&label=Profile%20Views&color=3&icon=0&pretty=false)](https://visitcount.itsvg.in)
